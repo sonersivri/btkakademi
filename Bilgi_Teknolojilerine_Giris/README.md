@@ -383,7 +383,7 @@ Diller birbirlerine benzemeye başlıyor
 
 Biri ile başlayıp diğerine geçebilirsiniz.
 
-# HANGI DILLE BAŞLAMALI
+# HANGI DILLE BAŞLAMALI
 Kavramları öğrenmek daha önemli diller araçtır.
 Başka dillere hızla geçiş yapabilir.
 Çok sayıda yeni dil çıkabilir ve öğrenmek zorunda olabilirsiniz.
@@ -404,3 +404,351 @@ Uygulamaya vakit harcayın
 
 Gömülü C C++ Python Java
 Diller öne çıkar yapılan iş ve alanla ilgili
+
+# VERİ BİLGİ NEDİR
+her varlığı sayılarla ifade etmek
+
+3000 veri maaş enformasyon
+
+bilgelik
+bilgi
+enformasyon
+veri
+
+enformasyonların toparlanması
+maaş takdir etmek bilgi
+
+bilgelik ekonomi paranın ne olduğu
+
+veri -> enformasyon
+veritabanı yönetim sistemleri
+tartışmamız sonuç döndürür
+
+enformasyon -> bilgi
+yapay zeka
+net olmayan cevaplar verebilir
+Karar verme
+
+bilgi -> bilgelik
+yeni bir sistem hayal kurmak
+para basmak ekonomi oluşturmak sanal bir dünya
+
+makine icat etmek bilgelik seviyesi
+
+Matematik operatorler kullanılabilir verilerde
+2 resim arasındaki fark matematiksel operator
+
+büyüktür küçüktür operatorü
+
+
+enformaston katmanı 
+bir çok hesaplama içerir 
+
+bilgi katmanı
+resimdeki kim 
+yapay zekaların alanı kesin olmayan
+bilgisayar gibi düşünmek gerekir.
+
+bilgelik katmanı
+bilgisayar ve programlar ile yapılamamaktadır.
+
+# VERİ YAPILARI NEDİR
+Maaş
+Yaş 
+Boy
+1 ve 0 ifade edebilinir
+Veri yapıları 
+
+değişkenler
+kontroller operatörler ile yapılabilir.
+
+Değişkenler hafızada RAM'de tutulur.
+
+digit 1 ve 0 lardan oluşur
+bit  veya birdir.
+8 bit 1 byte
+2 üzeri 8 farklı değer tutabilir.
+256 farklı sayı tutabilir.
+
+RAM maksimum kodlama kapasitesi
+
+RAM geçici hafıza
+Şifre kontrolü RAM'de yapılıyor.
+
+İlkel veri tipleri
+int float char bool
+
+İşlemlerin sıraya sokulması gerekebilir.
+
+# VERİ TABANLARI
+Database verilerin tutulduğu tabandır.
+Enformasyon katmanında kullanılır.
+Veri yapıları RAM'de tutulur 
+RAM geçicidir veriler kalıcı tutulması gerekiyor.
+DISK 2. hafıza
+RAM daha pahalı.
+DISK üzerinde program çalışmaz.
+Dosyalar tutulur.
+Copy Paste 
+Kopyalama RAM yapıştırma disk
+Veritabanı verileri bölerek verimli tutmak zorundadır.
+
+Veri tekrarları ayrı tabloda tutma verimli tutmaktır.
+Normalleştirme
+
+Verinin daha hızlı işlenmesi önemlenmektedir.
+
+Zaman ve Kapasite
+Hızlı Az yer kaplama
+
+Daha fazla yer daha uzun sürer ters orantı var
+
+Veritabanı tasarımcıları bu denklem için çalıştırılmaya başladı.
+
+Büyük veri kavramına döndü
+Bilgisayara koyulamayacak kadar büyük olması.
+
+Verilerin yaşam süresi olabilir.
+
+ses video resim yazı 
+
+volume hacim
+velocity hız
+variety çeşitlilik
+veracity güvenlik
+value
+
+Veritabanı sistemleri çok optimize çalışmaktadır. Kapalı kutu olarak kullanmaktayız. Dış dünyaya çıkan bağlantı noktaları ile işlem yapılıyor.
+
+Veritabanı sistemleri de katmanlı mimari vardır.
+
+Soyutlama katmanı vardır.
+
+#YAZILIM PROJELERI ve YÖNETİMİ
+her mesleğin proje yönetim alanı vardır.
+
+Nasıl başlamalı
+hangi aşamalardan geçmeli
+Kimler çalışmalı
+Ne kadara mal olur
+Ne kadar zamanda bitirilir.
+Problem bulma çözümleri nelerdir.
+
+Yazılım mühendisleri yönetir.
+
+Planlama -> problem analizi -> Tasarım -> Özellik -> Kodlama
+
+Şelale metodu:
+Analiz -> Tasarım -> Kodlama -> Test 
+Proje yöneticisi bu süreçlerden sorumludur.
+Uyumlu değiş yazılıma.
+
+Çevik yazılım kavramı
+Askeri devlet projelerinde şelale kullanılıyor.
+Taleplere göre değişebilen bir yapı olması egrekiyor yaşayan bir döngüdür.
+
+Yazılım Geliştirme Yaşam Döngüsü SDLC Software Development Life Cycle
+Sürekli döngüsü olan bir kavram.
+
+Proje Yöeticisinin görevi Doğru kişileri doğru yere atamak ve adresleme
+
+Kod yazma dışındaki eforlar yapılıyor.
+
+Yazılım asıl süreçleri
+Pazarlama
+Kullanıcı deneyimleri
+Geri bildirim
+İletişim
+Maaliyet
+Proje yönetimi
+Analizler
+
+Proje ekibi
+Analiz ekibi
+Tasarım ekibi
+Yazılım ekibi
+etkileşimli çalışması
+erken teşhis
+
+Bilgisayar destekli yazılım mühendisliği
+UML dili kullanılarak başarılı proje yapılabiliyor.
+
+20 yıllık yazılımlar var
+Bunu sağlayan doğru proje yönetimi ve butçe yönetimi ile yapılıyor.
+Proje yönetim tekniklerini bilmek gerekiyor.
+
+# YAZILIM PROJE YÖNETİM TEKNİKLERİ
+Teknik 
+zorluk
+iletişim 
+zorlukları
+
+Yazılım gelişimi ne ifade ediyor
+
+ilk uygulamalar çok başarısız. 
+
+şelale yöntemi sorunları vardır.
+
+Esnek değildir 
+Analizi değiştiremezsiniz
+Tasarımı değiştiremezsiniz.
+
+Programlar yaşayan yapılardır.
+Gmail 11 kere yeniden yazılmış
+
+İletişim:
+Ne istediğini doğru anlatmak ve anlamak. 
+Modelleme analiz ile yapılır.
+Analist Yazılım Analist
+
+prototip model türemiş 
+önce prototip çıkarıp üzerinde çalışamalar ve güncelleme ile devam eder. Özünde şelale vardır. Çalışan bir uygulama koyulur. 
+
+Sipiral model 
+arka arkaya prototip modelleme
+sürekli büyüyen proje.
+Kötü tarafı eskiden yapılan hata zor düzeltilir.
+
+Yazılım geliştiriciler çevik agile metodolojiler çıkmıştır.
+
+Sürekli test ve sürekli analiz vardır.
+
+Sürekli bir contact list olması lazımdır.
+
+Müşteri ve kullanıcı gözüyle anlaşıp adapte edilmesi.
+Ufak proje takımları yapabilmektedir.
+
+Product owner olduğu yöntemleri gelmiştir.
+
+Hız maaliyet Büyüme hızı performans ölçülmesi devreye girmiştir.
+
+Ölçemezsen kontorl edemezsin, kontrol edemezsen yönetemezsin.
+E. Deming
+
+Kodlama dışında ihyaçlar var
+Uzaktan çalışma yönetmleri geliştirilmiştir.
+
+Projeler ekip çalışması ile üretilmektedir.
+
+# Algoritma Nedir Nasıl analiz edilir.
+
+Bir işin nasıl yapılacağı yönergemedir.
+Harezmi ortaya atmıştır.
+Değişken kavramı üzerinden çalışır.
+Komutlar zincirinin değişik durumlardaki çalışma yöntemleridir.
+
+Değişken kavramı 
+Algoritma komutlar zinciri
+Akış diagramı çizilebilmektedir.
+
+Algoritma analizi 
+çalışma süresini tahmin ederek başlar.
+
+Sıralama problemi örnektir.
+10 üzerinde farklı yöntem var 
+en iyisini seçmek önemlidir.
+Matematik > Calculus > Cebir
+
+Cebir zamana bağlı çalışma sorusunu sorar.
+
+Performans ve hızı sorgular.
+
+# DONANIMI TANIMAK
+Elle tutula bilen bu dünyadan bir varlıktır somuttur.
+Yazılım tam tersidir.
+İşlemci CPU
+Hafıza RAM
+Giriş Çıkış üniteler
+
+Turing makinesi
+her makineye dönüşen makine
+
+Bir işlemci sırayla çalıştırır. İşletim sistemleri bunu yönetiyor.
+tek ve çok çekirdekli
+transistör üzerine kurulu
+
+Kuantum bilgisayarlar
+
+Parallel çalışan donanımlar.
+Problem büyüyünce başka bilgisayarlara dağıtmak.
+Büyük veri çalışması.
+
+# BİLGİSAYAR NASIL ÇALIŞIR
+Uygulamalar.
+Sunucular
+Gömülü sistemler
+İşlemci 
+Hafıza 
+Giriş Çıkış üniteleri.
+
+Kamera girdi işlemci hafıza
+
+İlk bilgisayarlar çok büyüktü tüplüydüler işletim sistemi yok operatörlerin elle kontrol ettiği bilgisayarlardır.
+Operator mesleği yok.
+Disk hafıza İşlemci
+BİOS Basic Input Output System
+İşletim sistemi başlatmaya yarar.
+İşletim sistemlerinde gömülü uygulamalar vardır.
+
+# İşletim Sistemleri
+Donanım ve Yazılım katmanı arasında çalışan yazılım katmanıdır.
+İşletim sistemi sayesinde paralel çalıştırma beraber çalıştırma yapabilmektedir.
+Biz paralel çalışıyor zannediyoruz ama işletim sistemi yönetiyor.
+Bu çok önemli bir kavram.
+Çok büyük bilgisayar yerine problemi dağıtıp bilgisayarlar arasında çalıştırmak.
+
+Problem amaca göre değişik çözümler üretilebiliyor.
+
+Direk donanım yerine işletim sistemi üzerinden işlem yapılıyor.
+
+Fonksiyonlar ile işletim sistemi arasında iletişim yapılıyor.
+
+Çerçeve yazılımlar ile işlem yapılır.
+
+Donanım
+İşletim sistemi
+Çerçeve Yazılım
+
+# Ağlar İnternet Nasıl Çalışır.
+Her cihaz internete bağlanıyor.
+Bilgisayarların birbiri ile kablolu ve kablosuz bağlanması.
+Fiber ışık hızında
+İnternet ağdır.
+Büyük internet prensipler
+Birbirlerini nasıl beklyeceği
+Nasıl mesaj geçireceği
+Hangi surayla ileteceği
+Kopma problemini nasıl çözeceği
+İletişimin geri kurtarılıp kurtalımayacağı
+Kurtalacaksa nasıl bir metod.
+Protokol tasarımı
+
+İletişim protokoller ile yapılıyor.
+
+TCP/IP
+IP: internet protokolü
+UDP
+
+Paketler kullanarak yapılır. 
+Yol göstericileri ile biri birleri ile bağlantı kullanıyorlar.
+
+Paketlerin farklı şekilleri olabilir. 
+İşletim sistemleri paketleri yönetir.
+
+DNS: Domain Name Server
+browser url ip dönüşümü yapar.
+
+HTTP + SSL = HTTPS
+protokol
+
+Router yönlendirme işlemini yapıyor. 
+Modem bir routerdır.
+Routerlar da bir bilgisayardır program çalışır üzerinde.
+
+- Internet özel ağdır.
+- Protoller vardır
+- Ön tanımlı protokoller vardır
+- İP protokoldür
+- Uygulamar iletişim için protokol kullanmaktadır.
+
+kapasite fazla ise paketlerin yaşam süresi geçerse kaybedilir.
