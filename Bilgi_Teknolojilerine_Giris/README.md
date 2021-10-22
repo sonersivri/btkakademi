@@ -1,15 +1,9 @@
-- Giriş
-Şadi Evren Şeker 
-Yazılım dünyasına genel bakış ve kavramlar
-Kariyer İmkanı ve Kavramlar 
-
-Temel Kavramlar
+# Temel Kavramlar
 Temel problemler
 Eğitimler
 Sektördeki problemler
 Son gelişimler
-
-- YAZILIM NEDİR?
+YAZILIM NEDİR?
 Bilgisayarın olmazsa olmazı
 Yazılım Soyut bir varlık
 Yazılım çalışan ortam donanım
@@ -67,7 +61,7 @@ bilgi ekonomisi Yapı taşı yazılım
 Kaldıraç etkisi yapıyor diğer sektörleri
 
 
-- YAZILIMIN ÖNEMİ ve GELECEĞİ
+# YAZILIMIN ÖNEMİ ve GELECEĞİ
 Yazılım her mesleği etkiyene unsurdur.
 
 Yazılım dünyasında neler oluyor
@@ -97,7 +91,7 @@ Yaşı yok.
 
 Geleceğin mesleğidir.
 
-- BİLİŞİM DÜNYASI YAZILIMIN ROLÜ
+# BİLİŞİM DÜNYASI YAZILIMIN ROLÜ
 
 Kodlar programlar yazılımın parçalarıdır
 
@@ -141,7 +135,7 @@ Fiziksel dünya var. İnsanın gitmediği yerlerde de
 
 Analitik düşünme kendini anlama 
 
-- TÜRKİYEDE ve DÜNYADA YAZILIM Sektörü
+# TÜRKİYEDE ve DÜNYADA YAZILIM Sektörü
 
 Ülkemizdeki Önemli uygulamalar
 Bankacılık
@@ -202,4 +196,130 @@ internetin olduğu yer yeterli
 
 Türkiye önemki ülkelerden
 
-MESLEK OLARAK YAZILIM
+# MESLEK OLARAK YAZILIM
+Bilgisayara neler yapılmasını söylediğiniz meslektir.
+
+Değişik seviyelerde mesleğe sahipsiniz
+
+dikeyde ve yatay uygulamalar vardır
+dikey bilgi
+yatay diğer sektörler
+
+
+T şeklinde insan olmak
+
+yatay general her konuda fikri olmak.
+
+mobil developer
+Cep telefonu örnek 
+mobil ugylama detayı 
+
+bankacılık sektörü bilmek gerekiyor. veritabanını bilmek.
+
+Çıkabilecek sıkıntıları önceden öngörebilmek.
+
+Ders eğitim örnekler
+
+En cazip sektörlerden
+
+Mimar
+İnşaat
+gemi 
+lojistik
+üretim
+tarım
+...
+
+İnsan faktörü uzman ihtiyacı artıyor.
+
+Çoğü ülkeden bankacılık sektörümüz çok ileride
+
+İnternet bankacılığı örnek.
+
+Yenilik 
+çalışma
+genel kültür
+araştırma
+
+No code
+okuma yazma bilmesenizde yapabiliyorsunuz
+
+# YAZILIM UZMANLIĞI ve ÇALIŞMA ŞARTLARI
+
+Bütün meslekler bilgisayar başında
+Analitik Düşünme
+Analiz analitik değil
+Analizin Analitik olması
+1 Hedef olması çıktı karar olması lazım
+2. Ölçülebilir değerler dayalı sayısal
+3. Metodoloji olmalı olçülebilir objectif
+
+Analitik düşünce yeteneği
+sayısal dünyada düşünme modelleyebiliyor musunuz.
+
+Gerçekleri sayısal dünyaya dönüştürmek
+
+Ölçülebilir bir düzlem
+
+Verileri işleyip doğru faydaları çıkarmak
+
+Sanal düşünebilmek
+Analitik düşünebilmek
+Sonuç odaklı
+Metedolojileri düşünebilmek
+Olçülebilir yöntemler kullanmak
+Metodolojileri doğru uygulamak
+yeni metodolojiler çıkarabilmek
+
+Sanal dünyaya açılan pencere
+Bilisayarları gerekli duyuyor
+İnsanları tanımak
+milyarca kişi nasıl davranacak anlamak
+günlük hayatları ve davranışları anlayan.
+ 
+PY UX UI
+
+Birlikte çalışma grup çalışması
+
+Sosyal ilişki önemli
+
+Öğrenme hızı önemli
+
+Matematikte kurallar 1000lerce yıllık ama yazılım dünyası öyle değil
+
+Bilgiye ilk ulaşmak daha değerli
+ilk olma önemli
+ 
+Örnek ERP 
+
+Yeni olan açıklığı
+
+Rahat alanı dışına çıkmak istemezler yazoılımcı olarak rahat alanına çıkabilmelidir.
+
+Yeni yazılıma adapte olmak önemli
+
+Öğrenme hızı önemli
+Okumak ve uygulama önemli
+
+Günlük hayata uygulamak
+
+İngilizce önemli
+Kaynakları taramak 
+doğru içeren kaynakları bilmek
+Görsel
+İşitsel 
+okuma yazma
+kinestetik
+
+1. Analitik düşünme
+2. İnsan ilişkileri
+3. Yeni bilgilere ulaşma yeteneği
+
+ekstra olarak kendi bilgi kaynağınızı taramanız önemli
+
+Alanınızdaki önemli insanları takip etmeniz iyi olacaktır.
+
+Sosyal etkinliklere katılmanız önemli 
+Sanal olabilir.
+
+Arkadaş çevrenizin olması iyidir.
