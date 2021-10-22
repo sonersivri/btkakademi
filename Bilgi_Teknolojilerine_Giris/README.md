@@ -366,3 +366,41 @@ Orta Seviye (C)
 Makine Dili
 
 # GÜNCEL PROGRAMLAMA DİLLERİ
+Diller belli amaçlar için
+Yeni dil yerine kütüphane framework çıkıyor
+
+standartlar derinlik özellik
+Proje ve problem odaklı
+talepler özellikler hız kütüphanaler
+İşe özelleştirilmiş diller
+
+Tek bir dil yetmeyebilir.
+Kariyer dil teknoloji kavramlar terimler
+
+İşletim sistemi sebebiyle farklılaşma
+
+Diller birbirlerine benzemeye başlıyor
+
+Biri ile başlayıp diğerine geçebilirsiniz.
+
+# HANGI DILLE BAŞLAMALI
+Kavramları öğrenmek daha önemli diller araçtır.
+Başka dillere hızla geçiş yapabilir.
+Çok sayıda yeni dil çıkabilir ve öğrenmek zorunda olabilirsiniz.
+Tekniği öğrenmek önemli
+Nasıl nereden hangi detaylar anlatılıyor
+Dillerin bir çok özelliği ortaktır.
+Kaynak erişimi önemli dil için
+Pratik ve uygulama ile öğrenebilir teorik yeterli olmaz.
+Yetenek kullandıkça gelişir.
+Makineye sor
+
+Yarışma Problem siteleri kullanılabilir.
+
+Başkalarının kodunu okuyarak dil bilginizi geliştirebilirsiniz.
+
+Başkaları nasıl çözmüş bakmak 
+Uygulamaya vakit harcayın
+
+Gömülü C C++ Python Java
+Diller öne çıkar yapılan iş ve alanla ilgili
