@@ -383,7 +383,7 @@ Diller birbirlerine benzemeye başlıyor
 
 Biri ile başlayıp diğerine geçebilirsiniz.
 
-# HANGI DILLE BAŞLAMALI
+# HANGI DILLE BAŞLAMALI
 Kavramları öğrenmek daha önemli diller araçtır.
 Başka dillere hızla geçiş yapabilir.
 Çok sayıda yeni dil çıkabilir ve öğrenmek zorunda olabilirsiniz.
