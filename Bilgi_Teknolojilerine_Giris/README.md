@@ -323,3 +323,46 @@ Sosyal etkinliklere katılmanız önemli
 Sanal olabilir.
 
 Arkadaş çevrenizin olması iyidir.
+# PROGRAMLAMA DILI NEDIR
+yazılım nedir = programlama dili nedir?
+Makina dili
+İnsanların konuştuğu doğal dillerden ayırmak için programlama dili denir.
+Makinenin ne yapması gerektiğini komutlar zinciri olarak söylenmesi.
+
+## Yapısal Programlama Dili
+Sıralı 
+Yenilemeli
+Seçimli
+
+Makineye yakın diller insana yakın diller
+
+Komut zinciri
+parametre girilmesi
+
+Compiler 0 1 e dönüştürüyor
+
+Veritabanı da yazılımdır.
+
+derleyici yorumlayıcılar
+
+Moduler dünya
+Birbirleriyle iletişimde olan programlar
+
+Eşyalar birbirleriyle etkileşir.
+
+Programlar arası iletişimi ayarlamak programcıya aittir.
+
+Derleyici Compoler
+İnterpreter 
+
+IDE geliştirme ortamları ile kod yazılımı yapılır.
+Derleyiciler ve IDE hataları gösterebilmektedir.
+
+Programlama dil sevileyeleri
+No Code (Lego gibi)
+Ust Seviye (Java)
+Orta Seviye (C)
+Çeviriciler (Assembly)
+Makine Dili
+
+# GÜNCEL PROGRAMLAMA DİLLERİ
